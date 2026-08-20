@@ -11,7 +11,7 @@ public class TRyCatch {
             int res = num/den;
             System.out.println("Result is "+res);
         }catch (ArithmeticException e){
-            System.out.println("Zero division error");x
+            System.out.println("Zero division error");
         }
 
     }
