@@ -14,6 +14,7 @@ public class Finallyex {
             System.out.println("\nFile Content");
             while (fileScanner.hasNext()) {
                 System.out.println(fileScanner.nextLine());
+
             }
         } catch (FileNotFoundException e) {
             System.out.println("Exception + " + e);
