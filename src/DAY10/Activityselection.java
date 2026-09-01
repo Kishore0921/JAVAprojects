@@ -1,6 +1,5 @@
 package DAY10;
 import java.util.*;
-import java.util.*;
 
 class Activity{
     int start;
@@ -12,7 +11,7 @@ class Activity{
     }
 }
 
-public class Activitys selection {
+public class Activityselection {
     public static void main(String[] args){
 
         Activity[] activities= {
